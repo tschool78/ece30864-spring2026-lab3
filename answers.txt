@@ -1,1 +1,3 @@
 1. By using AGILE development, you are able to rapidly adapte to changing situations. You can change the requirements mid project. However, since there is no final set of requirements, the project can grow in complexity throughout the project. Non-AGILE devlopment is very predictable from the strart. But, since the fluidity is lacking, you are unable to see a working product until the very and where major flaws could be seen.
+
+2. The product owner is the voice of the customer and the business. They are responsible for defining "done", stakeholder management, and creater the list of tasks. The Scrum Master is the leader in the JIRA space. They are in charge of running stand-ups, sprint planning, and ensureing that the team follows scrum values. 
